@@ -1,4 +1,5 @@
-These are the 3 codes needed for the neurorobotic experiment implementation. The following are the steps to be performed to correctly setup the enviroment.
+In this project I modeled an artificial neural network to implement the neurorobotics experiment. 
+The following are the steps to be performed to correctly setup the enviroment.
 
 1) Access the neurorobotic platform and create a new experiment selecting the template 'Empty World Enviroment'. When creating the enviroment, change from
    PyNN-NEST to NEST. Do not change any setting of the enviroment.
@@ -17,3 +18,4 @@ These are the 3 codes needed for the neurorobotic experiment implementation. The
    Each transfer function must be added separately clicking [+] every time to add a new one, from ############ to # in the code. Then click verify all. If an error occurs, 
    close the enviroment and rerun the experiment.
 6) Open the 'Spike train' tab to monitor neuronal spiking, press play and enjoy the decision-making experiment.
+
