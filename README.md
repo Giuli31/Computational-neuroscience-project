@@ -21,3 +21,4 @@ The following are the steps to be performed to correctly setup the enviroment.
    close the enviroment and rerun the experiment.
 6) Open the 'Spike train' tab to monitor neuronal spiking, press play and enjoy the decision-making experiment.
 
+(This project is the result of teamwork)
