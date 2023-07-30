@@ -1,6 +1,6 @@
 # Computational-neuroscience-project
 
-In this project I modeled an artificial neural network to implement the neurorobotics experiment. 
+In this project we modeled an artificial neural network to implement the neurorobotics experiment. 
 The following are the steps to be performed to correctly setup the enviroment.
 
 1) Access the neurorobotic platform and create a new experiment selecting the template 'Empty World Enviroment'. When creating the enviroment, change from
